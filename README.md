@@ -93,4 +93,5 @@ src/            collision, raycast, world
 tests/          unit tests
 demos/          3D sandbox (raylib)
 ```
-## This project was made with ai for fun and learning purposes
+
+This project was made with ai for fun and learning purposes
