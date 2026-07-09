@@ -93,7 +93,4 @@ src/            collision, raycast, world
 tests/          unit tests
 demos/          3D sandbox (raylib)
 ```
-
-## License
-
-MIT
+## This project was made with ai for fun and learning purposes
